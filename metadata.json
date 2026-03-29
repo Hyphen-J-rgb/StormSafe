@@ -1,0 +1,5 @@
+{
+  "name": "StormSafe: Hurricane Shelter Finder",
+  "description": "Find hurricane shelters, check capacity, report hazards, and access mental health resources during disasters.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
